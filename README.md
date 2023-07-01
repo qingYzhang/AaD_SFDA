@@ -2,4 +2,4 @@ Reproduce the code for paper **'Attracting and Dispersing: A Simple Approach for
 
 Download VisDA dataset and change the path in the code to it.
 
-Run src_pretrain.py
+Run train_adaptation.py
